@@ -1,3 +1,4 @@
 # aboutme1
 My name is Shelly
-I am a Business Management and Computer Science major student at CalState University
+I am a Business Managment and Computer Science student
+Here are some interesting facts about me
